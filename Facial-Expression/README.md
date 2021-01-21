@@ -33,7 +33,7 @@
 - Facial Expression Recognition 2013 (csv files): https://www.kaggle.com/utkarshmathur/facial-expression-recognition-2013-csv-files
 - UTKFace_Age_Groups: https://www.kaggle.com/salmaachour/utkface-age-groups
 
-## Noteboks:
+## Notebooks:
 
 - Facial Expression Detection (CNN): https://www.kaggle.com/shawon10/facial-expression-detection-cnn
 - Tutorial : Facial Expression Classification Keras: https://www.kaggle.com/ashishpatel26/tutorial-facial-expression-classification-keras
