@@ -4,13 +4,8 @@
 
 ## Data:
 
-- Face Mask Detection: https://www.kaggle.com/andrewmvd/face-mask-detection
 - Face Detection in Images: https://www.kaggle.com/dataturks/face-detection-in-images
 - Real and Fake Face Detection: https://www.kaggle.com/ciplab/real-and-fake-face-detection
-- Face Mask Detection Dataset: https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset
-- Face Mask Detection Dataset: https://www.kaggle.com/omkargurav/face-mask-dataset
-- Face Mask Detection: https://www.kaggle.com/sshikamaru/face-mask-detection
-- COVID Face Mask Detection Dataset: https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
 - CelebFaces Attributes (CelebA) Dataset: https://www.kaggle.com/jessicali9530/celeba-dataset
 - BlazeFace PyTorch: https://www.kaggle.com/humananalog/blazeface-pytorch
 - UTKFace: https://www.kaggle.com/jangedoo/utkface-new
@@ -77,17 +72,12 @@
 ## Notebooks:
 
 - Face Detection with OpenCV: https://www.kaggle.com/serkanpeldek/face-detection-with-opencv
-- Face mask detection: https://www.kaggle.com/ayushimishra2809/face-mask-detection
 - Comparison of face detection packages: https://www.kaggle.com/timesler/comparison-of-face-detection-packages
 - Face Recognition on Olivetti Dataset: https://www.kaggle.com/serkanpeldek/face-recognition-on-olivetti-dataset
 - Deepfake Detection - Face Extractor: https://www.kaggle.com/phunghieu/deepfake-detection-face-extractor
 - Face Detection in Images: https://www.kaggle.com/samansiadati/face-detection-in-images
 - Basic EDA Face Detection, split video and ROI: https://www.kaggle.com/marcovasquez/basic-eda-face-detection-split-video-and-roi
-- Face Mask Detection using CNN (98%+ Accuracy): https://www.kaggle.com/arbazkhan971/face-mask-detection-using-cnn-98-accuracy
 - Face Expression Detection from scratch: https://www.kaggle.com/nakulsingh1289/face-expression-detection-from-scratch
-- Face Mask Detection using SSD: https://www.kaggle.com/aman10kr/face-mask-detection-using-ssd
-- Face Mask Detection using Faster R-CNN (PyTorch): https://www.kaggle.com/jainamshah17/face-mask-detection-using-faster-r-cnn-pytorch
-- Face Mask Detection: https://www.kaggle.com/shoaibmnagi/face-mask-detection
 - Easy Way to Detect Face: https://www.kaggle.com/kmat2019/easy-way-to-detect-face
 - Deepfake: Pretrain DenseNet on face classification: https://www.kaggle.com/xhlulu/deepfake-pretrain-densenet-on-face-classification
 - Face detection in a couple of lines with dlib: https://www.kaggle.com/carlossouza/face-detection-in-a-couple-of-lines-with-dlib
