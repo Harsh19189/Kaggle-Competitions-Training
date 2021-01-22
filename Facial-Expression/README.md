@@ -16,6 +16,7 @@
 - Facial Expression Dataset: https://www.kaggle.com/aadityasinghal/facial-expression-dataset
 - Facial Expression Recog Image Ver of (FERC)Dataset: https://www.kaggle.com/manishshah120/facial-expression-recog-image-ver-of-fercdataset
 - UTKFace: https://www.kaggle.com/jangedoo/utkface-new
+- Face expression recognition dataset: https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 - YouTube Faces With Facial Keypoints: https://www.kaggle.com/selfishgene/youtube-faces-with-facial-keypoints
 - Facial-Expression-Classification-Dataset(3Classes): https://www.kaggle.com/nightfury007/fercustomdataset-3classes
 - Facial Expression Recognition: https://www.kaggle.com/sulthankhan/facial-expression-recognition
@@ -48,5 +49,5 @@
 - Facial Expression Classifier: https://www.kaggle.com/sudeshmate/facial-expression-classifier
 - Facial Expression Recognition using CNN: https://www.kaggle.com/sulthankhan/facial-expression-recognition-using-cnn
 - Facial Expression Detection: https://www.kaggle.com/sergei416/facial-expression-detection
-
+- Face expression recognition with Deep Learning: https://www.kaggle.com/jonathanoheix/face-expression-recognition-with-deep-learning
 
