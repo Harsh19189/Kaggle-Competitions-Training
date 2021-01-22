@@ -1,0 +1,113 @@
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/Kaggle-Competitions/blob/main/organizations-logos/kaggle.jpg">
+
+# Digit-Recognition
+
+## Data:
+
+- Bengali Digit Recognition in the Wild (BDRW): https://www.kaggle.com/debdoot/bdrw
+- MNIST Data for Digit Recognition: https://www.kaggle.com/sylvia23/mnist-data-for-digit-recognation
+- MNIST-Handwritten Digit Recognition Problem: https://www.kaggle.com/dillsunnyb11/digit-recognizer
+- SVHN Preprocessed Fragments: https://www.kaggle.com/olgabelitskaya/svhn-preproccessed-fragments
+- Arabic Handwritten Digits Dataset: https://www.kaggle.com/mloey1/ahdd1
+- Online Retail II UCI: https://www.kaggle.com/mashlyn/online-retail-ii-uci
+- Online Retail II Data Set from ML Repository: https://www.kaggle.com/mathchi/online-retail-ii-data-set-from-ml-repository
+- Street View House Numbers (SVHN): https://www.kaggle.com/stanfordu/street-view-house-numbers
+- Tugas Digit Recognition Dasken 2017: https://www.kaggle.com/sti18214046/tugasdigitrecognizerdasken
+- NumtaDB: Bengali Handwritten Digits: https://www.kaggle.com/BengaliAI/numta
+- Bangla Digit Recognition: https://www.kaggle.com/sakif1407023/bangla-digit-recognition
+- Digit Recognition: https://www.kaggle.com/fandyalifian/digit-recognition
+- Digit Recognition: https://www.kaggle.com/nadirameidina/digit-recognition
+- MNIST Digit Recognition: https://www.kaggle.com/atrisaxena/mnist-digit
+- Kaggle Digit Recognition Dataset Reformatted: https://www.kaggle.com/jcprogjava/kaggle-digit-recognition-dataset-reformatted
+
+## Notebooks:
+
+- Digit Recognition-Tutorial (CNN) 99.67% Accuracy: https://www.kaggle.com/tarunkr/digit-recognition-tutorial-cnn-99-67-accuracy
+- Kuzushiji Recognition just like Digit Recognition: https://www.kaggle.com/basu369victor/kuzushiji-recognition-just-like-digit-recognition
+- MNIST Digit recognition using SVM: https://www.kaggle.com/nishan192/mnist-digit-recognition-using-svm
+- SVHN Digit Recognition: https://www.kaggle.com/olgabelitskaya/svhn-digit-recognition
+- MNIST Digit Recognition using PyTorch: https://www.kaggle.com/franklemuchahary/mnist-digit-recognition-using-pytorch
+- CNN for Digit Recognition in the Kannada script: https://www.kaggle.com/datahobbit/cnn-for-digit-recognition-in-the-kannada-script
+- Handwritten Digit Recognition: https://www.kaggle.com/rahulbeniwal/handwritten-digit-recognition
+- CNN for digit recognition: https://www.kaggle.com/mohamedfarag96/cnn-for-digit-recognition
+- PCA + KNN for Digit Recognition: https://www.kaggle.com/rtromacek/pca-knn-for-digit-recognition
+- MNIST digit recognition with Random Forests: https://www.kaggle.com/atorin/mnist-digit-recognition-with-random-forests
+- Digit Recognition using KNN: https://www.kaggle.com/gauthampughazh/digit-recognition-using-knn
+- Digit Recognition using CNN (keras): https://www.kaggle.com/sunilsj99/digit-recognition-using-cnn-keras
+- Keras: CNN for MNIST digit recognition with TPUs: https://www.kaggle.com/bryanb/keras-cnn-for-mnist-digit-recognition-with-tpus
+- Digit Recognition using Deep Learning: https://www.kaggle.com/sinakhorami/digit-recognition-using-deep-learning
+- Solving Handwritten Digit Recognition Problem: https://www.kaggle.com/subhamoybhaduri/solving-handwritten-digit-recognition-problem
+- Digit Recognition using CNN: https://www.kaggle.com/mansimeena/digit-recognition-using-cnn
+- Digit Recognition using CNN (99% Accuracy): https://www.kaggle.com/arunrk7/digit-recognition-using-cnn-99-accuracy
+- LeNet5 Model for digit recognition: https://www.kaggle.com/jayfaldu/lenet5-model-for-digit-recognition
+- Digit Recognition using the MNIST Dataset: https://www.kaggle.com/ceocampo/digit-recognition-using-the-mnist-dataset
+- MNIST digit recognition with Keras and TensorFlow: https://www.kaggle.com/dn3dry/mnist-digit-recognition-with-keras-and-tensorflow
+- Digit Recognition using SVM with 98% accuracy: https://www.kaggle.com/sanesanyo/digit-recognition-using-svm-with-98-accuracy
+- Digit Recognition using CNN: https://www.kaggle.com/vicky1999/digit-recognition-using-cnn
+- Digit Recognition using Keras(99% accuracy): https://www.kaggle.com/shivamburnwal/digit-recognition-using-keras-99-accuracy
+- Beginner Guide to Digit Recognition: https://www.kaggle.com/craigmthomas/beginner-guide-to-digit-recognition
+- Digit Recognition using Nearest Neighbors: https://www.kaggle.com/shadabhussain/digit-recognition-using-nearest-neighbors
+- Kaggle Digit Recognition: https://www.kaggle.com/masoodanzar/kaggle-digit-recognition
+- Digit Recognition - MNIST (Keras - CNN): https://www.kaggle.com/tomasmantero/digit-recognition-mnist-keras-cnn
+- Digit recognition: https://www.kaggle.com/pawan300/digit-recognition
+- MNIST digit recognition using simple randomForest: https://www.kaggle.com/iammangod96/mnist-digit-recognition-using-simple-randomforest
+- Digit Recognition: https://www.kaggle.com/rashmiek99/digit-recognition
+- MNIST Digit Recognition using CNN (0.99 accuracy): https://www.kaggle.com/shweta2407/mnist-digit-recognition-using-cnn-0-99-accuracy
+- CNN - Digit Recognition: https://www.kaggle.com/dietzschdaniel/cnn-digit-recognition
+- Handwritten Digit Recognition - BI Capstone: https://www.kaggle.com/kira0992/handwritten-digit-recognition-bi-capstone
+- Digit Recognition Models #1: https://www.kaggle.com/olgabelitskaya/digit-recognition-models-1
+- Digit Recognition Models #2: https://www.kaggle.com/olgabelitskaya/digit-recognition-models-2
+- Digit Recognition Models #3: https://www.kaggle.com/olgabelitskaya/digit-recognition-models-3
+- Kannada MNIST Digit Recognition (using fast.ai): https://www.kaggle.com/ngupta23/kannada-mnist-digit-recognition-using-fast-ai
+- MNIST digit recognition With LeNet on keras: https://www.kaggle.com/roblexnana/mnist-digit-recognition-with-lenet-on-keras
+- digit recognition using cnn model: https://www.kaggle.com/shrey821/digit-recognition-using-cnn-model
+- Kannada Digit Recognition: https://www.kaggle.com/annaelshayeb/kannada-digit-recognition
+- MNIST Digit Recognition: https://www.kaggle.com/cdefreitas/mnist-digit-recognition
+- Handwritten Digit Recognition with Pytorch (FNN): https://www.kaggle.com/demidova/handwritten-digit-recognition-with-pytorch-fnn
+- Digit Recognition using CNN - 99.835%acc (Top 4%): https://www.kaggle.com/sauravjoshi23/digit-recognition-using-cnn-99-835-acc-top-4
+- Digit Recognition: Simple CNN: https://www.kaggle.com/davidblumenstiel/digit-recognition-simple-cnn
+- Digit Recognition with CNN : DL: https://www.kaggle.com/mainakchaudhuri/digit-recognition-with-cnn-dl
+- Digit-Recognition using CNN: https://www.kaggle.com/ankur95/digit-recognition-using-cnn
+- Digit Recognition: https://www.kaggle.com/jayakumarsekar/digit-recognition
+- Image Recognition: Building Simple Digit Detector: https://www.kaggle.com/slehkyi/image-recognition-building-simple-digit-detector
+- Digit recognition using simple KNN: https://www.kaggle.com/gaurav9297/digit-recognition-using-simple-knn
+- Digit Recognition: https://www.kaggle.com/sandhuveer/digit-recognition/
+- Digit Recognition with Conv Nets (99.6%): https://www.kaggle.com/acelaya0/digit-recognition-with-conv-nets-99-6
+- Digit recognition (CNN): https://www.kaggle.com/tungnguyen99tn/digit-recognition-cnn
+- Numero: Digit Recognition: https://www.kaggle.com/myasiny/numero-digit-recognition
+- Digit Recognition on MINST -NN, data augmentation.: https://www.kaggle.com/tambal/digit-recognition-on-minst-nn-data-augmentation
+- CNN for Digit Recognition using keras: https://www.kaggle.com/shankarj/cnn-for-digit-recognition-using-keras
+- MNIST - Digit Recognition (.99567) score: https://www.kaggle.com/anantgupt/mnist-digit-recognition-99567-score
+- Hand-written Digit Recognition using CNN: https://www.kaggle.com/jayfaldu/hand-written-digit-recognition-using-cnn
+- Part 1: Digit Recognition with XGBoost: https://www.kaggle.com/jaydeu/part-1-digit-recognition-with-xgboost
+- Part 2: Digit Recognition with Simple NN (Keras): https://www.kaggle.com/jaydeu/part-2-digit-recognition-with-simple-nn-keras
+- Part 3: Digit Recognition with CNNs: https://www.kaggle.com/jaydeu/part-3-digit-recognition-with-cnns
+- Digit Recognition with Keras - 99.75%: https://www.kaggle.com/jan1892/digit-recognition-with-keras-99-75
+- MNIST Digit Recognition With Tensoflow: https://www.kaggle.com/krunal3kapadiya/mnist-digit-recognition-with-tensoflow
+- Digit Recognition using Neural Network: https://www.kaggle.com/rahulbeniwal/digit-recognition-using-neural-network
+- MNIST digit recognition with Keras and TensorFlow: https://www.kaggle.com/choonje/mnist-digit-recognition-with-keras-and-tensorflow
+- LeNet-5 Implementation for digit Recognition: https://www.kaggle.com/keshavramaiah/lenet-5-implementation-for-digit-recognition
+- Digit Recognition using CNN: https://www.kaggle.com/vkhand/digit-recognition-using-cnn
+- MNIST digit recognition (LR): https://www.kaggle.com/atultyagi2000/mnist-digit-recognition-lr
+- Kaggle Introduction (Digit Recognition): https://www.kaggle.com/ikaynov/kaggle-introduction-digit-recognition
+- arabian digit recognition: https://www.kaggle.com/anwesande/arabian-digit-recognition
+- Digit Recognition with Keras (Acc - 0.98): https://www.kaggle.com/souravroy/digit-recognition-with-keras-acc-0-98
+- Handwritten digit recognition using MNIST dataset: https://www.kaggle.com/hadehdhayor/handwritten-digit-recognition-using-mnist-dataset
+- MNIST Digit Recognition with CNN Keras: https://www.kaggle.com/e194235/mnist-digit-recognition-with-cnn-keras
+- Hand Writing Digit Recognition in Deep Learning: https://www.kaggle.com/mychen76/hand-writing-digit-recognition-in-deep-learning
+- Digit Recognition CNN in Keras - 0.996 (Updated): https://www.kaggle.com/kagglemlearner/digit-recognition-cnn-in-keras-0-996-updated
+- MNIST digit recognition: https://www.kaggle.com/cthierfelder/mnist-digit-recognition
+- Digit Recognition - MNIST Dataset: https://www.kaggle.com/jagadish13/digit-recognition-mnist-dataset
+- Handwritten digit recognition using SVM: https://www.kaggle.com/pramodini18/handwritten-digit-recognition-using-svm
+- PCA : KNN Digit Recognition: https://www.kaggle.com/pranavcoder/pca-knn-digit-recognition
+- MNIST Digit Recognition with CNNs: https://www.kaggle.com/tarunpaparaju/mnist-digit-recognition-with-cnns
+- Pytorch: CNN for MNIST digit recognition with GPUs: https://www.kaggle.com/bryanb/pytorch-cnn-for-mnist-digit-recognition-with-gpus
+- Digit Recognition Using Keras: https://www.kaggle.com/raniphore/digit-recognition-using-keras
+- Digit Recognition Introduction to Keras: https://www.kaggle.com/artemkostrikin/digit-recognition-introduction-to-keras
+- Handwritten Digit Recognition using SVMs with PCA: https://www.kaggle.com/errohitshende/handwritten-digit-recognition-using-svms-with-pca
+- Keras CNN for Digit Recognition: https://www.kaggle.com/anirudhchak/keras-cnn-for-digit-recognition
+- Digit Recognition - CNN - 98.79% Accuracy: https://www.kaggle.com/akhiljohnson226/digit-recognition-cnn-98-79-accuracy
+- Digit Recognition using CNN keras: https://www.kaggle.com/sujit25/digit-recognition-using-cnn-keras
+- Digit Recognition | Convolutional Neural Networks: https://www.kaggle.com/ocakhsn/digit-recognition-convolutional-neural-networks
+- Beginner Guide to Digit Recognition (Part 2): https://www.kaggle.com/craigmthomas/beginner-guide-to-digit-recognition-part-2
+- TF Learn Approach for Digit Recognition: https://www.kaggle.com/alluxia/tf-learn-approach-for-digit-recognition
