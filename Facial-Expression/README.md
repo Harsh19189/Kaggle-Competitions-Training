@@ -23,31 +23,24 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 - Facial Recognition Dataset: https://www.kaggle.com/apollo2506/facial-recognition-dataset
 - Tufts Face Database: https://www.kaggle.com/kpvisionlab/tufts-face-database
 - SWELL dataset: https://www.kaggle.com/qiriro/swell-heart-rate-variability-hrv
-
-
 - ...
-
-- models: https://www.kaggle.com/drcapa/models
-- face_detect: https://www.kaggle.com/milan400/face-detect
-- images_architecture: https://www.kaggle.com/milan400/images-architecture
-- modified_fer2013: https://www.kaggle.com/ankur133047/modified-fer2013
-- model_visualize: https://www.kaggle.com/milan400/model-visualize
-- Face Expression Model: https://www.kaggle.com/nakulsingh1289/face-expression-model
-- FER13 Cleaned Dataset: https://www.kaggle.com/gauravsharma99/fer13-cleaned-dataset
-- FER2018: https://www.kaggle.com/ashishpatel26/fer2018
 - Facial Expression: https://www.kaggle.com/shawon10/facial-expression
 - MMA FACIAL EXPRESSION: https://www.kaggle.com/mahmoudima/mma-facial-expression
 - Facial Expression Dataset: https://www.kaggle.com/aadityasinghal/facial-expression-dataset
 - Facial Expression Recog Image Ver of (FERC)Dataset: https://www.kaggle.com/manishshah120/facial-expression-recog-image-ver-of-fercdataset
 - Facial-Expression-Classification-Dataset(3Classes): https://www.kaggle.com/nightfury007/fercustomdataset-3classes
 - Facial Expression Recognition: https://www.kaggle.com/sulthankhan/facial-expression-recognition
+- Face Expression Model: https://www.kaggle.com/nakulsingh1289/face-expression-model
+- FER13 Cleaned Dataset: https://www.kaggle.com/gauravsharma99/fer13-cleaned-dataset
+- FER2018: https://www.kaggle.com/ashishpatel26/fer2018
+- models: https://www.kaggle.com/drcapa/models
+- modified_fer2013: https://www.kaggle.com/ankur133047/modified-fer2013
+- model_visualize: https://www.kaggle.com/milan400/model-visualize
 - Google facial expression comparison dataset: https://www.kaggle.com/sohelranaccselab/google-facial-expression-comparison-dataset
-- CK+48 5 emotions: https://www.kaggle.com/gauravsharma99/ck48-5-emotions
 - RAVDESS Facial Landmark Tracking: https://www.kaggle.com/uwrfkaggler/ravdess-facial-landmark-tracking
 - Faces: Age Detection Dataset: https://www.kaggle.com/arashnic/faces-age-detection-dataset
 - Confident Unconfident Facial Expression: https://www.kaggle.com/sougatganguly/confident-unconfident
 - fase expretion: https://www.kaggle.com/youssef2020/fase-expretion
-- Mood_Recognition_Facial_Expressions: https://www.kaggle.com/vimalmishra786/mood-recognition-facial-expressions
 - Facial Expression Recognition 2013 (csv files): https://www.kaggle.com/utkarshmathur/facial-expression-recognition-2013-csv-files
 - UTKFace_Age_Groups: https://www.kaggle.com/salmaachour/utkface-age-groups
 - myimage: https://www.kaggle.com/shawon10/myimage/notebooks
