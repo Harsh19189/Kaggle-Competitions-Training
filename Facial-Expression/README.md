@@ -83,11 +83,6 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 - Your first emoji creator: https://www.kaggle.com/olavomendes/emotion-classifier
 - MMA Facial Expression CNN: https://www.kaggle.com/mahmoudima/mma-facial-expression-cnn
 - Beginner's EDA [FERC]: https://www.kaggle.com/debanga/beginner-s-eda-ferc
-- Gender Group Classification with CNN(obtain model): https://www.kaggle.com/superficiallybot/gender-group-classification-with-cnn-obtain-model
-- Age and Gender Estimation using CNN: https://www.kaggle.com/rahuldshetty/age-and-gender-estimation-using-cnn
-- Pixels, Brightness and Color Analysis - Image Data: https://www.kaggle.com/vikassheoran/pixels-brightness-and-color-analysis-image-data
-- UTKFace - age and sex prediction: https://www.kaggle.com/shrey821/utkface-age-and-sex-prediction
-- fastai_Approache_toAgeEstimation: https://www.kaggle.com/nadirs/fastai-approache-toageestimation
 - Face Expression Detection from scratch: https://www.kaggle.com/nakulsingh1289/face-expression-detection-from-scratch
 - Face Expression Recognition: https://www.kaggle.com/saitej31/face-expression-recognition
 - Face Expression detection: https://www.kaggle.com/apr2000/face-expression-detection
@@ -103,9 +98,6 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 - FER using convLSTM: https://www.kaggle.com/gauravsharma99/fer-using-convlstm
 - Emotion detection using TransferLearning: https://www.kaggle.com/sarthak3398/emotion-detection-using-transferlearning
 - Facial Recognition: https://www.kaggle.com/apollo2506/facial-recognition
-- Hemorrhage_ImageGenerator_ResNet50: https://www.kaggle.com/drcapa/hemorrhage-imagegenerator-resnet50
-- Cassava_Leaf_Disease_Classification_Starter_Keras: https://www.kaggle.com/drcapa/cassava-leaf-disease-classification-starter-keras
-- Cassava_Leaf_Disease_Classification_TPU_Tutorial: https://www.kaggle.com/drcapa/cassava-leaf-disease-classification-tpu-tutorial
 - FER-Landmarks-CNN-LBP-SVM on KDEF: https://www.kaggle.com/ankur133047/fer-landmarks-cnn-lbp-svm-on-kdef
 - AutoEncoder-->Preprocessing Part: https://www.kaggle.com/milan400/autoencoder-preprocessing-part
 - Facial Expression VGG vs Inception vs ResNet: https://www.kaggle.com/alincijov/facial-expression-vgg-vs-inception-vs-resnet
@@ -114,4 +106,3 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 - Facial emotion detection using XCEPTION: https://www.kaggle.com/soyabulislam/facial-emotion-detection-using-xception
 - Predict Facial Expressions (CNN): https://www.kaggle.com/kkhandekar/predict-facial-expressions-cnn
 - Disappointed Face fastai: https://www.kaggle.com/mpwolke/disappointed-face-fastai
-- APTOS-2019-Blindness_image_engineering_VGG19: https://www.kaggle.com/drcapa/aptos-2019-blindness-image-engineering-vgg19
