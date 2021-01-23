@@ -2,6 +2,11 @@
 
 # Facial-Expression
 
+## Compete
+
+- Challenges in Representation Learning: Facial Expression Recognition Challenge: 
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+
 ## Data:
 
 - Facial Expression: https://www.kaggle.com/ahmedmoorsy/facial-expression
@@ -33,6 +38,16 @@
 - Mood_Recognition_Facial_Expressions: https://www.kaggle.com/vimalmishra786/mood-recognition-facial-expressions
 - Facial Expression Recognition 2013 (csv files): https://www.kaggle.com/utkarshmathur/facial-expression-recognition-2013-csv-files
 - UTKFace_Age_Groups: https://www.kaggle.com/salmaachour/utkface-age-groups
+- myimage: https://www.kaggle.com/shawon10/myimage/notebooks
+- testimages: https://www.kaggle.com/shawon10/testimages
+- FER2018: https://www.kaggle.com/ashishpatel26/fer2018
+- models: https://www.kaggle.com/drcapa/models
+- face_detect: https://www.kaggle.com/milan400/face-detect
+- images_architecture: https://www.kaggle.com/milan400/images-architecture
+- modified_fer2013: https://www.kaggle.com/ankur133047/modified-fer2013
+- model_visualize: https://www.kaggle.com/milan400/model-visualize
+- Face Expression Model: https://www.kaggle.com/nakulsingh1289/face-expression-model
+- FER13 Cleaned Dataset: https://www.kaggle.com/gauravsharma99/fer13-cleaned-dataset
 
 ## Notebooks:
 
@@ -99,3 +114,9 @@
 - FER using convLSTM: https://www.kaggle.com/gauravsharma99/fer-using-convlstm
 - Emotion detection using TransferLearning: https://www.kaggle.com/sarthak3398/emotion-detection-using-transferlearning
 - Facial Recognition: https://www.kaggle.com/apollo2506/facial-recognition
+- Hemorrhage_ImageGenerator_ResNet50: https://www.kaggle.com/drcapa/hemorrhage-imagegenerator-resnet50
+- Cassava_Leaf_Disease_Classification_Starter_Keras: https://www.kaggle.com/drcapa/cassava-leaf-disease-classification-starter-keras
+- Cassava_Leaf_Disease_Classification_TPU_Tutorial: https://www.kaggle.com/drcapa/cassava-leaf-disease-classification-tpu-tutorial
+- APTOS-2019-Blindness_image_engineering_VGG19: https://www.kaggle.com/drcapa/aptos-2019-blindness-image-engineering-vgg19
+- FER-Landmarks-CNN-LBP-SVM on KDEF: https://www.kaggle.com/ankur133047/fer-landmarks-cnn-lbp-svm-on-kdef
+- modified_CK+: https://www.kaggle.com/ankur133047/modified-ck-facial-expression-dataset
