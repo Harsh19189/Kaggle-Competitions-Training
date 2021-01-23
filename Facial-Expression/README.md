@@ -43,6 +43,7 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 - UTKFace_Age_Groups: https://www.kaggle.com/salmaachour/utkface-age-groups
 - myimage: https://www.kaggle.com/shawon10/myimage/notebooks
 - testimages: https://www.kaggle.com/shawon10/testimages
+- modified_CK+: https://www.kaggle.com/ankur133047/modified-ck-facial-expression-dataset
 
 ## Notebooks:
 
@@ -65,11 +66,8 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 - FER2013 Denoising using AutoEncoder and UNET: https://www.kaggle.com/milan400/fer2013-denoising-using-autoencoder-and-unet
 - FER-Landmarks-CNN-LBP-SVM on KDEF: https://www.kaggle.com/ankur133047/fer-landmarks-cnn-lbp-svm-on-kdef
 - FER2013 Denoising using AutoEncoder(Gaussain): https://www.kaggle.com/milan400/fer2013-denoising-using-autoencoder-gaussain
-- AutoEncoder-->Preprocessing Part: https://www.kaggle.com/milan400/autoencoder-preprocessing-part
 - Facial_expression_Detection: https://www.kaggle.com/jp0909/facial-expression-detection
-- Facial Expression VGG vs Inception vs ResNet: https://www.kaggle.com/alincijov/facial-expression-vgg-vs-inception-vs-resnet
 - FER2013_AdaGrad_VGG19_e20_CM_ROC: https://www.kaggle.com/kayasthaanit/fer2013-adagrad-vgg19-e20-cm-roc
-- fer2013_CNNvisualize: https://www.kaggle.com/milan400/fer2013-cnnvisualize
 - Fork of FER-Landmarks-CNN-LBP-SVM: https://www.kaggle.com/ankur133047/fer-landmarks-cnn-lbp-svm-on-fer2013
 - Facial Emotion Recognition: https://www.kaggle.com/gauravsharma99/facial-emotion-recognition
 - FER2013 (with Keras): https://www.kaggle.com/alpertemel/fer2013-with-keras
@@ -78,15 +76,12 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 - Neural Structured Learning: https://www.kaggle.com/gauravsharma99/neural-structured-learning
 - Human Emotion Detection by using CNN: https://www.kaggle.com/milan400/human-emotion-detection-by-using-cnn
 - Facial Emotions using ckplus detection using cnn: https://www.kaggle.com/sarthak3398/facial-emotions-using-ckplus-detection-using-cnn
-- CNN Classifier - PyTorch (Test Acc: 89.2): https://www.kaggle.com/arohanajit232/cnn-classifier-pytorch-test-acc-89-2
 - facial_emotion_recogination 85% accuracy: https://www.kaggle.com/anantgupt/facial-emotion-recogination-91-accuracy-train-set
 - Facial Expression Detection: https://www.kaggle.com/msambare/facial-expression-detection
 - facial_emotion_recogination: https://www.kaggle.com/soyabulislam/facial-emotion-recogination
 - facial_emotion_recogination 82% Accuracy: https://www.kaggle.com/aroraumang/facial-emotion-recogination-82-accuracy
 - Your first emoji creator: https://www.kaggle.com/olavomendes/emotion-classifier
-- Facial emotion detection using XCEPTION: https://www.kaggle.com/soyabulislam/facial-emotion-detection-using-xception
 - MMA Facial Expression CNN: https://www.kaggle.com/mahmoudima/mma-facial-expression-cnn
-- Predict Facial Expressions (CNN): https://www.kaggle.com/kkhandekar/predict-facial-expressions-cnn
 - Beginner's EDA [FERC]: https://www.kaggle.com/debanga/beginner-s-eda-ferc
 - Gender Group Classification with CNN(obtain model): https://www.kaggle.com/superficiallybot/gender-group-classification-with-cnn-obtain-model
 - Age and Gender Estimation using CNN: https://www.kaggle.com/rahuldshetty/age-and-gender-estimation-using-cnn
@@ -103,7 +98,6 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 - 3D Kmeans animation: https://www.kaggle.com/drgilermo/3d-kmeans-animation
 - Masking faces from YouTube Faces dataset: https://www.kaggle.com/mtszkw/face-mask-overlay-with-youtube-faces-dataset
 - Estimating head pose in YouTube Faces dataset: https://www.kaggle.com/mtszkw/estimating-head-pose-in-youtube-faces-dataset
-- Disappointed Face fastai: https://www.kaggle.com/mpwolke/disappointed-face-fastai
 - FER using Convolutional Bidrectional LSTM: https://www.kaggle.com/gauravsharma99/fer-using-convolutional-bidrectional-lstm
 - Visualizing the CNN: https://www.kaggle.com/gauravsharma99/visualizing-the-cnn
 - FER using convLSTM: https://www.kaggle.com/gauravsharma99/fer-using-convlstm
@@ -112,6 +106,12 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 - Hemorrhage_ImageGenerator_ResNet50: https://www.kaggle.com/drcapa/hemorrhage-imagegenerator-resnet50
 - Cassava_Leaf_Disease_Classification_Starter_Keras: https://www.kaggle.com/drcapa/cassava-leaf-disease-classification-starter-keras
 - Cassava_Leaf_Disease_Classification_TPU_Tutorial: https://www.kaggle.com/drcapa/cassava-leaf-disease-classification-tpu-tutorial
-- APTOS-2019-Blindness_image_engineering_VGG19: https://www.kaggle.com/drcapa/aptos-2019-blindness-image-engineering-vgg19
 - FER-Landmarks-CNN-LBP-SVM on KDEF: https://www.kaggle.com/ankur133047/fer-landmarks-cnn-lbp-svm-on-kdef
-- modified_CK+: https://www.kaggle.com/ankur133047/modified-ck-facial-expression-dataset
+- AutoEncoder-->Preprocessing Part: https://www.kaggle.com/milan400/autoencoder-preprocessing-part
+- Facial Expression VGG vs Inception vs ResNet: https://www.kaggle.com/alincijov/facial-expression-vgg-vs-inception-vs-resnet
+- fer2013_CNNvisualize: https://www.kaggle.com/milan400/fer2013-cnnvisualize
+- CNN Classifier - PyTorch (Test Acc: 89.2): https://www.kaggle.com/arohanajit232/cnn-classifier-pytorch-test-acc-89-2
+- Facial emotion detection using XCEPTION: https://www.kaggle.com/soyabulislam/facial-emotion-detection-using-xception
+- Predict Facial Expressions (CNN): https://www.kaggle.com/kkhandekar/predict-facial-expressions-cnn
+- Disappointed Face fastai: https://www.kaggle.com/mpwolke/disappointed-face-fastai
+- APTOS-2019-Blindness_image_engineering_VGG19: https://www.kaggle.com/drcapa/aptos-2019-blindness-image-engineering-vgg19
